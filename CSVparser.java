@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 public class CSVparser {
 	public static void main(String[] args) throws IOException {
 		PrintWriter writer = new PrintWriter("/Users/caolan/Desktop/Programming Project/SQLscript.txt", "UTF-8");
-		String csvFile = "/Users/caolan/Desktop/Programming Project/EQ5Dcsv.csv";
+		String csvFile = "/Users/caolan/Desktop/Programming Project/EQ5Dcsv.txt";
 		BufferedReader br = null;
 		BufferedReader br2 = null;
 		String line = "";
@@ -24,26 +24,41 @@ public class CSVparser {
 		}
 		while((line2 = br2.readLine())!=null){
 			String[] data2 = line2.split(",");
-			System.out.println(data2[41]);
 			writer.println("INSERT INTO Visit VALUES (");
 			writer.println("'"+data2[29]+"','"+data2[30]+"','"+data2[32]+"','"+data2[31]+"','"+data2[33]+
 					"','"+data2[0]+"','"+data2[29]+data2[30]+data2[32]+data2[31]+data2[33]+
 					"','"+data2[41]+"','"+data2[1]+"','"+"undisclosed"+"','"+"undisclosed"+
 					"','"+data2[22]+"','"+data2[23]+"','"+data2[25]+"','"+data2[26]+
-					"','"+data2[15]+"','"+data2[18]+"','"+data2[17]+"','"+data2[19]+"','"+data2[20]+"','"+"algorithm"+"');");
+					"','"+data2[15]+"','"+data2[18]+"','"+data2[17]+"','"+data2[19]+"','"+data2[20]+"','"+data2[13]+"','"+"algorithm"+"');");
 		}
 		br.close();
 		br2.close();
 		String CSVFile2 = "/Users/caolan/Desktop/Programming Project/Copy of Ireland & UK EQ5D Masterfile.csv";
 		BufferedReader br3 = null;
 		BufferedReader br4 = null;
-		br3 = new BufferedReader(new FileReader(csvFile));
-		br4 = new BufferedReader(new FileReader(csvFile));
+		br3 = new BufferedReader(new FileReader(CSVFile2));
+		br4 = new BufferedReader(new FileReader(CSVFile2));
 		br3.readLine();//lines not needed
 		br4.readLine();//lines not needed
 		while((line = br3.readLine())!=null){
+			System.out.println("working");
 			String data3[] = line.split(",");
-			
+			writer.println("INSERT INTO Patients VALUES (");
+			writer.println("'"+data3[0]+"','"+data3[4]+"','"+data3[5]+"','"+
+			data3[24]+"','"+data3[21]+"','"+data3[20]+"','"+data3[19]+"','"+data3[22]+
+			"','"+"Ireland & UK EQ5D"+"','"+data3[23]);
 		}
+		while((line = br4.readLine())!=null){
+			String data4[] = line.split(",");
+			writer.println("INSERT INTO Visit VALUES (");
+			writer.println("'"+data4[6]+"','"+data4[8]+"','"+data4[10]+"','"+data4[12]+"','"+data4[14]+"','"+
+			data4[3]+"','"+data4[6]+data4[8]+data4[10]+data4[12]+data4[14]+"','"+data4[18]+"','"+""+"','"+data4[25]+"','"+data4[34]+"','"+data4[33]+"','"+
+			data4[35]+"','"+data4[36]+"','"+data4[26]+"','"+data4[27]+"','"+data4[28]+"','"+
+			data4[29]+"','"+data4[30]+"','"+data4[31]+"','"+data4[0]+"','"+data4[17]+"');");
+		}
+		writer.flush();
+		writer.close();
+		br3.close();
+		br4.close();
 	}
 }
