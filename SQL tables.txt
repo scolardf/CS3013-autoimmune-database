@@ -2,13 +2,13 @@ CREATE TABLE Patients(
 id INT NOT NULL PRIMARY KEY,
 Gender VARCHAR(255),
 YearOfBirth YEAR,
-Smoker BOOLEAN,
+Smoker VARCHAR(255),
 DateOfDiagnosis DATE,
 DiagnosisSummary VARCHAR(255),
 Diagnosis VARCHAR(255),
 AgeAtFirstVisit TINYINT,
 Dataset VARCHAR(255),
-TypeOfRecruit VARCHAR(255),
+TypeOfRecruit VARCHAR(255)
 );
 
 CREATE TABLE Visit(
@@ -27,14 +27,18 @@ Steroids VARCHAR(255),
 ImmunoSuppressent VARCHAR(255),
 Prophlaxis VARCHAR(255),
 FormType VARCHAR(2),
-DiseaseActivity(255),
+DiseaseActivity VARCHAR(255),
 CRP VARCHAR(255),
 BVAS VARCHAR(255),
 Creatinine VARCHAR(255),
 eGFR VARCHAR(255),
-HealthIndex DOUBLE,
-ADD CONSTRAINT id
-FOREIGN KEY Patients(Patients)
-REFERENCES Patients(id)
-PRIMARY KEY (DateOfVisit, Patients)
+ID INT NOT NULL,
+HealthIndex DOUBLE
 );
+
+ALTER TABLE visit
+ADD FOREIGN KEY ID(ID)
+REFERENCES Patients(id);
+
+ALTER TABLE visit
+ADD PRIMARY KEY(DateOfVisit, ID);
