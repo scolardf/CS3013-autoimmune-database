@@ -1,58 +1,58 @@
 Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobility Avg,Self care,Self Care Avg,Pain/Discomfort,Pain/Discomfort Avg,Usual activities,Usual Activities Avg,Anxiety/Depression,Anxiety/Depression Avg,Concatenate,Index,Health Score,Diagnosis,Diagnosis summary,Date of diagnosis,Age at first visit (yrs),TYPE OF RECRUIT,Smoker?,Occupation,Form Type,Disease activity,CRP,BVAS,Creatinine,eGFR (mol/min/1.73m2),ESRD,Steroids (prednisolone),Cyclophosphamide,Other immunosuppresants,Prophylaxis
 1,Irish,Yes,19/10/2012,Male,1965,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,31/08/2012,47,Patient,Unknown,Unknown,3L,Low disease activity,4,,208,31,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Non
-1,Irish,No,16/11/2012,Male,1965,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,31/08/2012,47,Patient,Unknown,Not working,3L,Low disease activity,3,5,178,37,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D"
+1,Irish,No,16/11/2012,Male,1965,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,31/08/2012,47,Patient,Unknown,Not working,3L,Low disease activity,3,5,178,37,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D
 1,Irish,No,25/10/2013,Male,1965,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,31/08/2012,47,Patient,Unknown,Student,3L,Remission,1,,117,60,No,Yes,,Azathioprine,Calcium + Vitamin D
-2,Irish,Yes,21/09/2012,Male,1944,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/04/2012,67,Patient,Previous,Employed part time,3L,Remission,,,332,16,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
+2,Irish,Yes,21/09/2012,Male,1944,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/04/2012,67,Patient,Previous,Employed part time,3L,Remission,,,332,16,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
 2,Irish,No,15/11/2012,Male,1944,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,01/04/2012,67,Patient,Previous,Retired,3L,Remission,,,281,20,No,Yes,,Azathioprine,Calcium + Vitamin D
 2,Irish,No,09/05/2014,Male,1944,1,,1,,1,,2,,2,,11122,0.768,80,MPA,MPA,01/04/2012,67,Patient,Previous,Employed part time,5L,Remission,1,,281,20,No,Yes,,Azathioprine,Non
-3,Irish,Yes,19/10/2012,Male,1947,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/04/2012,64,Patient,Previous,Retired,3L,Remission,5,,106,,No,Yes,,Azathioprine,"Co/trimoxazole, Bisphosphonate"
+3,Irish,Yes,19/10/2012,Male,1947,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/04/2012,64,Patient,Previous,Retired,3L,Remission,5,,106,,No,Yes,,Azathioprine,Co/trimoxazole+ Bisphosphonate
 3,Irish,No,15/11/2013,Male,1947,1,,1,,1,,3,,1,,11131,0.796,,GPA,GPA,01/04/2012,64,Patient,Previous,Retired,3L,Remission,1,,115,58,No,Yes,,Azathioprine,Co/trimoxazole
 3,Irish,No,11/07/2014,Male,1947,1,,1,,1,,1,,1,,11111,1,95,GPA,GPA,01/04/2012,64,Patient,Previous,Retired,5L,Remission,1,,106,63,No,Yes,,Azathioprine,Co/trimoxazole
-4,Irish,Yes,21/09/2012,Female,1938,2,2,1,1,2,2,2,2,1,1,31331,0.735,,MPA,MPA,26/08/2012,74,Patient,Unknown,Retired,3L,Low disease activity,1,,160,,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D"
-4,Irish,No,19/10/2012,Female,1938,2,,1,,2,,2,,1,,31331,0.735,,MPA,MPA,26/08/2012,74,Patient,Unknown,Unknown,3L,Low disease activity,2,,130,36,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D, Antifungal"
-4,Irish,No,16/11/2012,Female,1938,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,26/08/2012,74,Patient,Unknown,Retired,3L,Remission,2,,110,44,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D"
-4,Irish,No,14/03/2014,Female,1938,1,,3,,3,,1,,,,13313,0.708,65,MPA,MPA,26/08/2012,74,Patient,Unknown,Retired,5L,Remission,0,,139,33,No,Yes,,Azathioprine,Calcium + Vitamin D
-5,Irish,Yes,26/10/2012,Female,1959,1,1,1,1,1,1,1,1,1,1,11111,1,,Double positive,Vasculitis Other,02/10/2012,53,Patient,Never,Unknown,3L,Low disease activity,2,,233,19,No,Yes,Daily oral cyclophosphamide,,"Co/trimoxazole, Calcium + Vitamin D"
-5,Irish,No,09/05/2014,Female,1959,1,,1,,1,,1,,,,11112,0.879,90,Double positive,Vasculitis Other,02/10/2012,53,Patient,Never,Not working,5L,Remission,1,,132,38,No,Yes,,Azathioprine,Non
+4,Irish,Yes,21/09/2012,Female,1938,2,2,1,1,2,2,2,2,1,1,31331,0.735,,MPA,MPA,26/08/2012,74,Patient,Unknown,Retired,3L,Low disease activity,1,,160,,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D
+4,Irish,No,19/10/2012,Female,1938,2,,1,,2,,2,,1,,31331,0.735,,MPA,MPA,26/08/2012,74,Patient,Unknown,Unknown,3L,Low disease activity,2,,130,36,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D+ Antifungal
+4,Irish,No,16/11/2012,Female,1938,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,26/08/2012,74,Patient,Unknown,Retired,3L,Remission,2,,110,44,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D
+4,Irish,No,14/03/2014,Female,1938,1,,3,,3,,1,,0,,13313,0.708,65,MPA,MPA,26/08/2012,74,Patient,Unknown,Retired,5L,Remission,0,,139,33,No,Yes,,Azathioprine,Calcium + Vitamin D
+5,Irish,Yes,26/10/2012,Female,1959,1,1,1,1,1,1,1,1,1,1,11111,1,,Double positive,Vasculitis Other,02/10/2012,53,Patient,Never,Unknown,3L,Low disease activity,2,,233,19,No,Yes,Daily oral cyclophosphamide,,Co/trimoxazole+ Calcium + Vitamin D
+5,Irish,No,09/05/2014,Female,1959,1,,1,,1,,1,,0,,11112,0.879,90,Double positive,Vasculitis Other,02/10/2012,53,Patient,Never,Not working,5L,Remission,1,,132,38,No,Yes,,Azathioprine,Non
 6,Irish,Yes,16/10/2012,Female,1957,1,1,1,1,4,4,2,2,2,2,11422,0.62,,GPA,GPA,01/04/2012,54,Patient,Unknown,Not working,3L,Remission,1,,75,73,No,,,,Non
-6,Irish,No,15/11/2013,Female,1957,1,,1,,3,,3,,,,11335,0.255,,GPA,GPA,01/04/2012,54,Patient,Unknown,Not working,3L,Remission,1,,68,82,No,Yes,,No,Calcium + Vitamin D
-7,Irish,Yes,16/11/2012,Male,1952,3,3,1,1,1,1,3,3,1,1,31131,0.727,,GPA,GPA,01/10/2011,59,Patient,Unknown,Retired,3L,Low disease activity,8,,156,41,No,Yes,,Rituximab,"Co/trimoxazole, Calcium + Vitamin D"
-7,Irish,No,18/07/2014,Male,1952,2,,1,,1,,3,,,,21132,0.683,85,GPA,GPA,01/10/2011,59,Patient,Unknown,Employed part time,5L,Remission,9,,175,35,No,Yes,,Azathioprine,Co/trimoxazole
-8,Irish,Yes,29/11/2012,Male,1957,1,1,1,1,3,3,1,1,3,3,11313,0.812,,PACNS,Vasculitis Other,31/05/2012,54,Patient,Unknown,Not working,3L,Low disease activity,4,,226,27,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
-10,Irish,Yes,21/12/2012,Female,1985,2,2,2,2,2,2,1,1,2,2,22212,0.691,,GPA,GPA,01/01/2012,26,Patient,Unknown,Not working,3L,Remission,33,,66,90,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D"
-10,Irish,No,28/03/2014,Female,1985,1,,2,,2,,5,,,,12255,0.088,,GPA,GPA,01/01/2012,26,Patient,Unknown,Not working,3L,Low disease activity,33,,63,91,No,Yes,,Rituximab,Non
+6,Irish,No,15/11/2013,Female,1957,1,,1,,3,,3,,0,,11335,0.255,,GPA,GPA,01/04/2012,54,Patient,Unknown,Not working,3L,Remission,1,,68,82,No,Yes,,No,Calcium + Vitamin D
+7,Irish,Yes,16/11/2012,Male,1952,3,3,1,1,1,1,3,3,1,1,31131,0.727,,GPA,GPA,01/10/2011,59,Patient,Unknown,Retired,3L,Low disease activity,8,,156,41,No,Yes,,Rituximab,Co/trimoxazole+ Calcium + Vitamin D
+7,Irish,No,18/07/2014,Male,1952,2,,1,,1,,3,,0,,21132,0.683,85,GPA,GPA,01/10/2011,59,Patient,Unknown,Employed part time,5L,Remission,9,,175,35,No,Yes,,Azathioprine,Co/trimoxazole
+8,Irish,Yes,29/11/2012,Male,1957,1,1,1,1,3,3,1,1,3,3,11313,0.812,,PACNS,Vasculitis Other,31/05/2012,54,Patient,Unknown,Not working,3L,Low disease activity,4,,226,27,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
+10,Irish,Yes,21/12/2012,Female,1985,2,2,2,2,2,2,1,1,2,2,22212,0.691,,GPA,GPA,01/01/2012,26,Patient,Unknown,Not working,3L,Remission,33,,66,90,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D
+10,Irish,No,28/03/2014,Female,1985,1,,2,,2,,5,,0,,12255,0.088,,GPA,GPA,01/01/2012,26,Patient,Unknown,Not working,3L,Low disease activity,33,,63,91,No,Yes,,Rituximab,Non
 11,Irish,Yes,14/03/2014,Male,1973,1,1,1,1,2,2,2,2,2,2,11222,0.736,40,GPA,GPA,28/01/2013,39,Patient,Previous,Employed full time,5L,Remission,0,,122,59,No,Yes,,MMF,Calcium + Vitamin D
-12,Irish,Yes,08/02/2013,Female,1952,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/02/2012,59,Patient,Unknown,Not working,3L,Remission,,,,,No,No,,Azathioprine,"Co/trimoxazole, Bisphosphonate"
+12,Irish,Yes,08/02/2013,Female,1952,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/02/2012,59,Patient,Unknown,Not working,3L,Remission,,,,,No,No,,Azathioprine,Co/trimoxazole+ Bisphosphonate
 12,Irish,No,20/09/2013,Female,1952,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,01/02/2012,59,Patient,Unknown,Not working,3L,Remission,0,,91,57,No,No,,Azathioprine,Calcium + Vitamin D
-13,Irish,Yes,11/01/2013,Male,1942,1,1,2,2,1,1,1,1,2,2,12112,0.779,,MPA,MPA,01/11/2007,64,Patient,Previous,Retired,3L,Remission,,,141,44,No,Yes,,No,"Co/trimoxazole, Calcium + Vitamin D, Bisphosphonate"
+13,Irish,Yes,11/01/2013,Male,1942,1,1,2,2,1,1,1,1,2,2,12112,0.779,,MPA,MPA,01/11/2007,64,Patient,Previous,Retired,3L,Remission,,,141,44,No,Yes,,No,Co/trimoxazole+ Calcium + Vitamin D+ Bisphosphonate
 14,Irish,Yes,18/01/2013,Male,1947,1,1,1,1,1,1,3,3,3,3,11133,0.725,,Double positive,Vasculitis Other,01/02/2011,63,Patient,Previous,Retired,3L,Remission,5,,672,7,Yes,Yes,,No,Bisphosphonate
 15,Irish,Yes,18/01/2013,Female,1946,1,1,1,1,1,1,1,1,1,1,11111,1,,PTU-vasculitis,Vasculitis Other,03/08/2012,66,Patient,Previous,Retired,3L,Remission,3,,74,72,No,No,,No,Calcium + Vitamin D
 15,Irish,No,13/12/2013,Female,1946,1,,1,,1,,1,,1,,11111,1,,Secondary Vasculitis,Vasculitis Other,03/08/2012,66,Patient,Previous,Retired,3L,Remission,2,,67,81,No,No,,No,Bisphosphonate
 16,Irish,Yes,22/03/2013,Female,1947,1,1,1,1,1,1,1,1,1,1,11111,1,,Rheumatoid-vasculitits,Vasculitis Other,01/07/2012,65,Patient,Unknown,Employed full time,3L,Remission,27,,83,63,No,No,,Methotrexate,Non
 17,Irish,Yes,22/03/2013,Male,1939,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/08/2011,72,Patient,Unknown,Retired,3L,Low disease activity,33,,129,49,No,Yes,,Methotrexate,Calcium + Vitamin D
-17,Irish,No,10/01/2014,Male,1939,1,,1,,1,,1,,1,,11111,1,,GPA,GPA,01/08/2011,72,Patient,Unknown,Retired,3L,Remission,1,,113,57,No,Yes,,Methotrexate,"Co/trimoxazole, Calcium + Vitamin D"
+17,Irish,No,10/01/2014,Male,1939,1,,1,,1,,1,,1,,11111,1,,GPA,GPA,01/08/2011,72,Patient,Unknown,Retired,3L,Remission,1,,113,57,No,Yes,,Methotrexate,Co/trimoxazole+ Calcium + Vitamin D
 18,Irish,Yes,22/03/2013,Male,1983,3,3,1,1,1,1,3,3,1,1,31131,0.727,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/07/2007,24,Patient,Unknown,Employed full time,3L,Remission,1,,68,90,No,Yes,,No,Calcium + Vitamin D
 19,Irish,Yes,07/03/2013,Female,1960,1,1,1,1,1,1,1,1,1,1,11111,1,,GBM,Vasculitis Other,01/03/2013,53,Patient,Never,Employed full time,3L,Active,25,,333,13,Yes,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole
 19,Irish,No,16/05/2014,Female,1960,1,,1,,1,,2,,1,,11121,0.837,75,GBM,Vasculitis Other,01/03/2013,53,Patient,Never,Employed full time,5L,Remission,0,,178,26,No,Yes,,No,Non
-21,Irish,Yes,25/03/2013,Female,1949,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,22/03/2013,63,Patient,Unknown,Retired,3L,Active,14,,310,13,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D, Antifungal"
+21,Irish,Yes,25/03/2013,Female,1949,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,22/03/2013,63,Patient,Unknown,Retired,3L,Active,14,,310,13,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D+ Antifungal
 22,Irish,Yes,05/04/2013,Male,1936,1,1,1,1,3,3,1,1,1,1,11311,0.883,,Double positive,Vasculitis Other,01/11/2012,76,Patient,Previous,Retired,3L,Remission,31,,180,33,No,Yes,,Azathioprine,Calcium + Vitamin D
 22,Irish,No,14/02/2014,Male,1936,1,,1,,1,,1,,1,,11111,1,75,Double positive,Vasculitis Other,01/11/2012,76,Patient,Previous,Retired,5L,Remission,1,,168,36,No,No,,Azathioprine,Non
 24,Irish,Yes,20/06/2013,Female,1941,1,1,1,1,1,1,1,1,1,1,11111,1,,GBM,Vasculitis Other,02/06/2010,68,Patient,Unknown,Not working,3L,Remission,2,,574,1,Yes,No,,No,Non
-25,Irish,Yes,19/04/2013,Male,1959,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/03/2010,50,Patient,Unknown,Not working,3L,Remission,12,,118,58,No,Yes,,Azathioprine,"Calcium + Vitamin D, Bisphosphonate"
-26,Irish,Yes,29/04/2013,Male,1969,1,1,1,1,3,3,1,1,1,1,11311,0.883,,GPA,GPA,16/04/2013,43,Patient,Unknown,Employed full time,3L,Active,1,,347,17,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D, Antifungal"
+25,Irish,Yes,19/04/2013,Male,1959,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/03/2010,50,Patient,Unknown,Not working,3L,Remission,12,,118,58,No,Yes,,Azathioprine,Calcium + Vitamin D+ Bisphosphonate
+26,Irish,Yes,29/04/2013,Male,1969,1,1,1,1,3,3,1,1,1,1,11311,0.883,,GPA,GPA,16/04/2013,43,Patient,Unknown,Employed full time,3L,Active,1,,347,17,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D+ Antifungal
 26,Irish,No,13/06/2014,Male,1969,1,1,1,1,1,1,1,1,1,1,11111,1,80,GPA,GPA,16/04/2013,43,Patient,Unknown,Employed full time,5L,Remission,,,,,No,Yes,,Azathioprine,Calcium + Vitamin D
 27,Irish,Yes,03/05/2013,Female,1938,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,08/12/2001,63,Patient,Unknown,Retired,3L,Remission,8,,230,18,No,Yes,,MMF,Non
 28,Irish,Yes,03/05/2013,Male,1951,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/11/2010,59,Patient,Unknown,Employed part time,3L,Remission,11,,147,43,No,Yes,,MMF,Calcium + Vitamin D
-29,Irish,Yes,03/05/2013,Female,1956,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,24/12/2001,45,Patient,Unknown,Not working,3L,Remission,,,,,No,Yes,,MMF,"Calcium + Vitamin D, Bisphosphonate"
+29,Irish,Yes,03/05/2013,Female,1956,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,24/12/2001,45,Patient,Unknown,Not working,3L,Remission,,,,,No,Yes,,MMF,Calcium + Vitamin D+ Bisphosphonate
 29,Irish,No,14/03/2014,Female,1956,1,1,1,1,1,1,2,2,3,3,11123,0.75,60,GPA,GPA,24/12/2001,45,Patient,Unknown,Not working,5L,Low disease activity,2,,152,31,No,Yes,,Methotrexate,Co/trimoxazole
-30,Irish,Yes,31/05/2013,Male,1976,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,13/05/2013,36,Patient,Current,Not working,3L,Active,3,,106,71,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D, Antifungal"
+30,Irish,Yes,31/05/2013,Male,1976,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,13/05/2013,36,Patient,Current,Not working,3L,Active,3,,106,71,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D+ Antifungal
 30,Irish,No,29/07/2014,Male,1976,1,1,1,1,1,1,1,1,1,1,11111,1,95,GPA,GPA,13/05/2013,36,Patient,Current,Employed full time,5L,Remission,,,,,No,Yes,,Azathioprine,Calcium + Vitamin D
 32,Irish,Yes,05/07/2013,Male,1952,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,24/08/2004,51,Patient,Previous,Employed full time,3L,Active,6,,158,40,No,Yes,,Azathioprine,Non
 32,Irish,No,06/09/2013,Male,1952,1,,1,,3,,1,,1,,11311,0.883,,MPA,MPA,24/08/2004,51,Patient,Previous,Employed full time,3L,Low disease activity,10,,164,38,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Non
 32,Irish,No,09/05/2014,Male,1952,1,,3,,1,,2,,1,,13121,0.717,50,MPA,MPA,24/08/2004,51,Patient,Previous,Employed full time,5L,Remission,12,,164,38,No,Yes,,MMF,Co/trimoxazole
 34,Irish,Yes,04/06/2013,Male,1928,1,1,1,1,3,3,3,3,3,3,11333,0.689,,MPA,MPA,05/06/2013,84,Patient,Never,Retired,3L,Active,130,,495,3,Yes,No,,No,Non
-34,Irish,No,20/09/2013,Male,1928,1,,1,,2,,3,,2,,11232,0.71,,MPA,MPA,05/06/2013,84,Patient,Never,Retired,3L,Remission,23,,483,10,Yes,Yes,,Rituximab,"Co/trimoxazole, Calcium + Vitamin D"
-34,Irish,No,22/11/2013,Male,1928,3,,1,,1,,3,,1,,31131,0.727,,MPA,MPA,05/06/2013,84,Patient,Never,Retired,3L,Remission,8,,626,8,Yes,Yes,,No,"Co/trimoxazole, Calcium + Vitamin D"
+34,Irish,No,20/09/2013,Male,1928,1,,1,,2,,3,,2,,11232,0.71,,MPA,MPA,05/06/2013,84,Patient,Never,Retired,3L,Remission,23,,483,10,Yes,Yes,,Rituximab,Co/trimoxazole+ Calcium + Vitamin D
+34,Irish,No,22/11/2013,Male,1928,3,,1,,1,,3,,1,,31131,0.727,,MPA,MPA,05/06/2013,84,Patient,Never,Retired,3L,Remission,8,,626,8,Yes,Yes,,No,Co/trimoxazole+ Calcium + Vitamin D
 35,Irish,Yes,13/06/2014,Male,1954,1,1,1,1,1,1,1,1,1,1,11111,1,95,GBM,Vasculitis Other,23/03/2012,57,Patient,Previous,Employed part time,5L,Remission,2,,999,3,Yes,No,,No,Non
 37,Irish,Yes,07/06/2013,Female,1972,1,1,1,1,1,1,3,3,3,3,11133,0.725,,Unclassified,Vasculitis Other,07/06/2013,41,Patient,Previous,Not working,3L,Low disease activity,10,,76,77,No,No,,No,Non
 37,Irish,No,13/06/2014,Female,1972,1,,1,,1,,3,,2,,11132,0.74,70,Unclassified,Vasculitis Other,07/06/2013,41,Patient,Previous,Not working,5L,Low disease activity,10,,87,65,No,No,,No,Non
@@ -66,14 +66,14 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 45,Irish,Yes,02/08/2013,Male,1928,1,1,1,1,2,2,3,3,2,2,11232,0.71,,MPA,MPA,01/09/2012,84,Patient,Previous,Retired,3L,Remission,,,137,44,No,Yes,,No,Non
 48,Irish,Yes,16/06/2013,Female,1964,1,1,1,1,1,1,1,1,1,1,11111,1,,Double positive,Vasculitis Other,01/10/2007,43,Patient,Unknown,Employed full time,3L,Remission,3,,98,55,No,Yes,,MMF,Non
 49,Irish,Yes,09/08/2013,Male,1962,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,08/08/2013,51,Patient,Current,Employed full time,3L,Active,1,,496,4,No,Yes,,No,Non
-49,Irish,No,06/09/2013,Male,1962,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,08/08/2013,51,Patient,Current,Not working,3L,Low disease activity,1,,305,19,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D, Antifungal"
-49,Irish,No,22/11/2013,Male,1962,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,08/08/2013,51,Patient,Current,Not working,3L,Low disease activity,1,,302,19,No,Yes,PULSED CYCLOPHOSPHAMIDE,,"Co/trimoxazole, Calcium + Vitamin D, Antifungal"
+49,Irish,No,06/09/2013,Male,1962,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,08/08/2013,51,Patient,Current,Not working,3L,Low disease activity,1,,305,19,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D+ Antifungal
+49,Irish,No,22/11/2013,Male,1962,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,08/08/2013,51,Patient,Current,Not working,3L,Low disease activity,1,,302,19,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Co/trimoxazole+ Calcium + Vitamin D+ Antifungal
 50,Irish,Yes,16/08/2013,Male,1945,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/06/2009,63,Patient,Previous,Employed full time,3L,Remission,1,,108,62,No,Yes,,MMF,Non
 51,Irish,Yes,15/08/2013,Female,1965,1,1,1,1,1,1,1,1,3,3,11113,0.848,,GBM,Vasculitis Other,15/08/2013,47,Patient,Previous,Employed full time,3L,Active,37,,93,59,No,No,,No,Non
 52,Irish,Yes,13/09/2013,Female,1950,5,5,2,2,2,2,5,5,1,1,52251,-0.166,,MPA,MPA,13/09/2013,63,Patient,Previous,Not working,3L,Active,46,,286,15,No,Yes,,No,Non
 52,Irish,No,10/01/2014,Female,1950,1,,1,,1,,1,,1,,11111,1,,MPA,MPA,13/09/2013,63,Patient,Previous,Not working,3L,Remission,2,,142,33,No,No,,Rituximab,Co/trimoxazole
-52,Irish,No,16/05/2014,Female,1950,1,,1,,1,,1,,1,,11111,1,100,MPA,MPA,13/09/2013,63,Patient,Previous,Retired,5L,Remission,3,,113,44,No,No,,Rituximab,"Co/trimoxazole, Calcium + Vitamin D, Non"
-53,Irish,Yes,20/09/2013,Female,1928,3,3,1,1,1,1,1,1,1,1,31111,0.85,,MPA,MPA,06/12/2007,79,Patient,Never,Retired,3L,Remission,4,,100,48,No,Yes,,Azathioprine,"Co/trimoxazole, Bisphosphonate, Antifungal"
+52,Irish,No,16/05/2014,Female,1950,1,,1,,1,,1,,1,,11111,1,100,MPA,MPA,13/09/2013,63,Patient,Previous,Retired,5L,Remission,3,,113,44,No,No,,Rituximab,Co/trimoxazole+ Calcium + Vitamin D+ Non
+53,Irish,Yes,20/09/2013,Female,1928,3,3,1,1,1,1,1,1,1,1,31111,0.85,,MPA,MPA,06/12/2007,79,Patient,Never,Retired,3L,Remission,4,,100,48,No,Yes,,Azathioprine,Co/trimoxazole+ Bisphosphonate+ Antifungal
 54,Irish,Yes,20/09/2013,Male,1942,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/06/1992,50,Patient,Never,Employed full time,3L,Remission,0,,251,23,No,No,,MMF,Non
 55,Irish,Yes,18/07/2014,Female,1953,1,1,1,1,1,1,1,1,1,1,11111,1,85,GPA,GPA,11/12/1995,42,Patient,Current,Not working,5L,Low disease activity,0,3,84,63,Transplanted,Yes,,Rituximab,Co/trimoxazole
 57,Irish,Yes,15/11/2013,Female,1975,1,1,1,1,1,1,3,3,3,3,11133,0.725,,Unclassified,Vasculitis Other,01/01/2005,29,Patient,Current,Not working,3L,Remission,2,,56,91,No,No,,MMF,Non
@@ -109,7 +109,7 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 2503,Irish,Yes,07/10/2013,Female,1962,3,3,1,1,3,3,3,3,1,1,31331,0.735,,aHUS,Other,01/02/2005,42,Disease Control,Current,Not working,3L,Remission,25,,618,1,Yes,No,,No,Non
 2506,Irish,Yes,26/07/2013,Female,1958,3,3,3,3,3,3,3,3,1,1,33331,0.587,,Diabetic Nephropathy,Other   ,01/01/2001,42,Disease Control,Never,Retired,3L,Active,,,254,17,No,No,,No,Non
 2507,Irish,Yes,09/08/2013,Male,1950,1,1,1,1,1,1,1,1,1,1,11111,1,,CKD,Other   ,07/06/2013,63,Disease Control,Current,Retired,3L,Remission,3,,236,,No,,,,Non
-2510,Irish,Yes,06/09/2013,Female,1944,1,1,1,1,1,1,1,1,1,1,11111,1,,Double positive,Vasculitis Other,06/09/2013,69,Patient,Unknown,Retired,3L,Active,9,,300,14,No,No,,No,"Co/trimoxazole, Calcium + Vitamin D, Bisphosphonate"
+2510,Irish,Yes,06/09/2013,Female,1944,1,1,1,1,1,1,1,1,1,1,11111,1,,Double positive,Vasculitis Other,06/09/2013,69,Patient,Unknown,Retired,3L,Active,9,,300,14,No,No,,No,Co/trimoxazole+ Calcium + Vitamin D+ Bisphosphonate
 2510,Irish,No,10/01/2014,Female,1944,2,2,3,3,4,4,2,2,1,1,23421,0.516,,Double positive,Vasculitis Other,06/09/2013,69,Patient,Unknown,Not working,3L,Remission,,,,,No,Yes,,Azathioprine,Calcium + Vitamin D
 2510,Irish,No,11/07/2014,Female,1944,3,,1,,2,,4,,2,,31242,0.429,70,Double positive,Vasculitis Other,06/09/2013,69,Patient,Unknown,Not working,5L,Remission,4,,118,41,No,No,,Azathioprine,Non
 2511,Irish,Yes,25/10/2013,Female,1997,1,1,1,1,3,3,1,1,1,1,11311,0.883,,RTA,Other,16/12/2010,13,Disease Control,Never,Student,3L,Low disease activity,,,47,,No,No,,No,Non
@@ -119,7 +119,7 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 2515,Irish,Yes,11/04/2014,Male,1951,1,1,1,1,1,1,1,1,1,1,11111,1,75,Diabetic nephropathy,Other   ,01/01/1997,45,Disease Control,Never,Not working,5L,Active,1,,142,45,No,No,,No,Non
 2516,Irish,Yes,21/02/2014,Male,1945,1,1,1,1,2,2,1,1,1,1,11211,0.906,95,Myasthenia Gravis,Other   ,01/01/2014,68,Disease Control,Previous,Unknown,5L,Remission,2,,63,91,No,,,,Non
 2517,Irish,Yes,21/02/2014,Male,1943,1,1,1,1,1,1,2,2,1,1,11121,0.837,80,CKD,Other   ,01/08/2012,69,Disease Control,Previous,Unknown,5L,Remission,,,114,57,No,No,,No,Non
-2519,Irish,Yes,14/02/2014,Male,1926,2,2,2,2,2,2,3,3,2,2,22232,0.567,60,"CKD3, nephrectomy",Other   ,01/01/1989,62,Disease Control,Never,Retired,5L,Remission,1,,152,39,No,No,,No,Non
+2519,Irish,Yes,14/02/2014,Male,1926,2,2,2,2,2,2,3,3,2,2,22232,0.567,60,CKD3+ nephrectomy,Other   ,01/01/1989,62,Disease Control,Never,Retired,5L,Remission,1,,152,39,No,No,,No,Non
 2520,Irish,Yes,14/02/2014,Male,1948,2,2,1,1,5,5,4,4,5,5,21545,0.035,5,Diabetic CKD/Gout,Other   ,01/01/2010,61,Disease Control,Unknown,Retired,5L,Low disease activity,53,,655,8,No,No,,No,Non
 2521,Irish,Yes,11/04/2014,Male,1952,1,1,1,1,1,1,2,2,1,1,11121,0.837,,Analgesic nephropathy,Other,16/11/2011,59,Disease Control,Previous,Employed full time,5L,Remission,5,,121,55,No,,,,Non
 2522,Irish,Yes,18/07/2014,Male,1979,1,1,1,1,2,2,1,1,1,1,11211,0.906,100,Malignant HTN,Other   ,08/04/2014,35,Disease Control,Never,Not working,5L,Remission,1,,999,4,Yes,No,,No,Non
@@ -137,26 +137,26 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 4005,Irish,No,07/07/2014,Female,1937,1,,1,,1,,4,,1,,11141,0.584,50,GPA,GPA,01/05/1994,56,Patient,Unknown,Retired,5L,Active,4,,85,59,No,Yes,,No,Non
 4006,Irish,Yes,01/10/2012,Female,1961,2,2,2,2,2,2,1,1,2,2,22212,0.691,,GPA,GPA,01/12/2000,39,Patient,Unknown,Unknown,3L,Remission,12,,91,59,No,No,,No,Calcium + Vitamin D
 4006,Irish,No,15/10/2012,Female,1961,2,,2,,2,,1,,2,,22212,0.691,,GPA,GPA,01/12/2000,39,Patient,Unknown,Unknown,3L,Remission,6,,145,34,No,No,,No,Calcium + Vitamin D
-4007,Irish,Yes,08/10/2012,Female,1973,1,1,1,1,3,3,1,1,1,1,11311,0.883,,GPA,GPA,01/02/2012,38,Patient,Unknown,Unknown,3L,Remission,,,67,90,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
+4007,Irish,Yes,08/10/2012,Female,1973,1,1,1,1,3,3,1,1,1,1,11311,0.883,,GPA,GPA,01/02/2012,38,Patient,Unknown,Unknown,3L,Remission,,,67,90,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
 4008,Irish,Yes,08/10/2012,Male,1970,1,1,1,1,1,1,3,2,1,1,11131,0.796,,GPA,GPA,01/01/2005,35,Patient,Unknown,Unknown,3L,Remission,1,,74,90,No,Yes,,Methotrexate,Calcium + Vitamin D
 4008,Irish,No,10/02/2014,Male,1970,1,,1,,1,,1,,1,,11111,1,,GPA,GPA,01/01/2005,35,Patient,Unknown,Employed full time,5L,Remission,1,,72,91,No,Yes,,Methotrexate,Non
 4009,Irish,Yes,08/10/2012,Male,1974,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/06/2003,28,Patient,Unknown,Unknown,3L,Remission,1,,88,88,No,No,,No,Non
 4009,Irish,No,14/04/2014,Male,1974,1,,1,,1,,1,,1,,11111,1,100,GPA,GPA,01/06/2003,28,Patient,Unknown,Employed full time,5L,Remission,0,,93,82,No,No,,rasilez,Bisphosphonate
-4010,Irish,Yes,08/10/2012,Female,1966,1,1,5,3,2,2,2,2,1,2,15221,0.309,,GPA,GPA,01/01/1984,17,Patient,Never,Unknown,3L,Remission,8,,55,90,No,No,,Methotrexate,"Calcium + Vitamin D, Bisphosphonate"
+4010,Irish,Yes,08/10/2012,Female,1966,1,1,5,3,2,2,2,2,1,2,15221,0.309,,GPA,GPA,01/01/1984,17,Patient,Never,Unknown,3L,Remission,8,,55,90,No,No,,Methotrexate,Calcium + Vitamin D+ Bisphosphonate
 4010,Irish,No,11/08/2014,Female,1966,1,,1,,2,,1,,3,,11213,0.819,80,GPA,GPA,01/01/1984,17,Patient,Never,Not working,5L,Remission,8,,57,91,No,,,,Non
 4011,Irish,Yes,15/10/2012,Male,1976,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,01/01/2007,30,Patient,Unknown,Unknown,3L,Remission,,,,,No,No,,Methotrexate,Calcium + Vitamin D
 4011,Irish,No,29/04/2013,Male,1976,1,,1,,1,,1,,1,,11111,1,,GPA,GPA,01/01/2007,30,Patient,Unknown,Employed full time,3L,Remission,65,,72,90,No,Yes,,Azathioprine,Calcium + Vitamin D
 4011,Irish,No,19/05/2014,Male,1976,1,,1,,1,,1,,1,,11111,1,85,GPA,GPA,01/01/2007,30,Patient,Unknown,Employed full time,5L,Remission,4,,74,91,No,Yes,,Azathioprine,Calcium + Vitamin D
 4012,Irish,Yes,15/10/2012,Male,1942,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/07/2008,65,Patient,Unknown,Unknown,3L,Remission,4,,96,70,No,Yes,,Azathioprine,Non
-4013,Irish,Yes,21/07/2014,Female,1936,1,1,1,1,2,2,1,1,3,3,11213,0.819,80,GPA,GPA,01/11/2005,69,Patient,Unknown,Not working,5L,Remission,5,,68,77,No,Yes,,No,"Co/trimoxazole, Calcium + Vitamin D"
+4013,Irish,Yes,21/07/2014,Female,1936,1,1,1,1,2,2,1,1,3,3,11213,0.819,80,GPA,GPA,01/11/2005,69,Patient,Unknown,Not working,5L,Remission,5,,68,77,No,Yes,,No,Co/trimoxazole+ Calcium + Vitamin D
 4014,Irish,Yes,21/07/2014,Female,1947,1,1,1,1,1,1,2,2,2,2,11122,0.76,60,GPA,GPA,01/04/1996,48,Patient,Unknown,Not working,5L,Remission,6,,65,77,No,No,,No,Calcium + Vitamin D
 4016,Irish,Yes,22/10/2012,Female,1950,1,1,1,1,1,1,3,3,3,3,11133,0.725,,GPA,GPA,01/06/2011,60,Patient,Unknown,Unknown,3L,Remission,1,,53,90,No,,,,Non
 4017,Irish,Yes,05/11/2012,Male,1965,1,1,1,1,1,1,1,2,1,1,11111,1,,GPA,GPA,01/01/1996,30,Patient,Unknown,Not working,3L,Low disease activity,3,,72,90,No,Yes,,Methotrexate,Calcium + Vitamin D
 4017,Irish,No,29/04/2013,Male,1965,1,,1,,1,,3,,1,,11131,0.796,,GPA,GPA,01/01/1996,30,Patient,Unknown,Unknown,3L,Active,2,,68,91,Yes,Yes,,No,Calcium + Vitamin D
 4017,Irish,No,30/06/2014,Male,1965,2,,1,,2,,2,,1,,21221,0.735,85,GPA,GPA,01/01/1996,30,Patient,Unknown,Not working,5L,Remission,1,,95,77,No,Yes,,No,Non
-4018,Irish,Yes,01/11/2012,Male,1965,1,1,1,1,5,4,3,2,1,2,11531,0.433,,GPA,GPA,30/11/2011,46,Patient,Unknown,Unknown,3L,Remission,3,,103,70,No,Yes,,No,"Co/trimoxazole, Calcium + Vitamin D, Bisphosphonate"
-4018,Irish,No,25/11/2013,Male,1965,1,,1,,3,,1,,1,,11311,0.883,,GPA,GPA,30/11/2011,46,Patient,Unknown,Employed full time,3L,Remission,1,,86,86,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
-4018,Irish,No,27/01/2014,Male,1965,1,,1,,3,,3,,3,,11333,0.689,,GPA,GPA,30/11/2011,46,Patient,Unknown,Not working,5L,Low disease activity,5,,87,85,No,Yes,,No,"Co/trimoxazole, Calcium + Vitamin D, Bisphosphonate"
+4018,Irish,Yes,01/11/2012,Male,1965,1,1,1,1,5,4,3,2,1,2,11531,0.433,,GPA,GPA,30/11/2011,46,Patient,Unknown,Unknown,3L,Remission,3,,103,70,No,Yes,,No,Co/trimoxazole+ Calcium + Vitamin D+ Bisphosphonate
+4018,Irish,No,25/11/2013,Male,1965,1,,1,,3,,1,,1,,11311,0.883,,GPA,GPA,30/11/2011,46,Patient,Unknown,Employed full time,3L,Remission,1,,86,86,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
+4018,Irish,No,27/01/2014,Male,1965,1,,1,,3,,3,,3,,11333,0.689,,GPA,GPA,30/11/2011,46,Patient,Unknown,Not working,5L,Low disease activity,5,,87,85,No,Yes,,No,Co/trimoxazole+ Calcium + Vitamin D+ Bisphosphonate
 4019,Irish,Yes,22/10/2012,Female,1931,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,01/01/2001,69,Patient,Previous,Unknown,3L,Remission,1,,95,51,No,Yes,,No,Non
 4020,Irish,Yes,05/11/2012,Female,1947,1,1,1,1,3,3,3,2,3,2,11333,0.689,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/06/2001,53,Patient,Unknown,Not working,3L,Remission,5,,66,83,No,No,,No,Calcium + Vitamin D
 4020,Irish,No,21/10/2013,Female,1947,1,,1,,2,,1,,1,,11211,0.906,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/06/2001,53,Patient,Unknown,Not working,5L,Low disease activity,17,,58,91,No,No,,No,Non
@@ -174,7 +174,7 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 4026,Irish,No,20/05/2013,Male,1953,1,,1,,1,,3,,1,,11131,0.796,,GPA,GPA,01/05/2002,48,Patient,Unknown,Employed full time,3L,Remission,2,,86,83,No,No,,No,Co/trimoxazole
 4026,Irish,No,26/05/2014,Male,1953,3,,1,,1,,2,,2,,31122,0.695,80,GPA,GPA,01/05/2002,48,Patient,Unknown,Employed full time,5L,Remission,2,,96,72,No,No,,No,Co/trimoxazole
 4027,Irish,Yes,03/03/2014,Female,1947,1,1,1,1,1,1,2,2,1,1,11121,0.837,50,GPA,GPA,01/06/1992,44,Patient,Unknown,Retired,5L,Remission,24,,64,86,No,Yes,,No,Non
-4028,Irish,Yes,03/12/2012,Female,1951,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,01/10/2003,52,Patient,Unknown,Employed full time,3L,Active,1,,64,87,No,Yes,,No,"Calcium + Vitamin D, Bisphosphonate"
+4028,Irish,Yes,03/12/2012,Female,1951,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,01/10/2003,52,Patient,Unknown,Employed full time,3L,Active,1,,64,87,No,Yes,,No,Calcium + Vitamin D+ Bisphosphonate
 4030,Irish,Yes,03/12/2012,Female,1934,1,1,1,1,1,1,3,3,1,1,11131,0.796,,GPA,GPA,01/01/1997,62,Patient,Previous,Retired,3L,Remission,22,,,,No,No,,No,Bisphosphonate
 4030,Irish,No,10/06/2013,Female,1934,1,,1,,1,,3,,3,,11133,0.725,,GPA,GPA,01/01/1997,62,Patient,Previous,Retired,3L,Low disease activity,5,,74,69,No,No,,No,Calcium + Vitamin D
 4030,Irish,No,12/05/2014,Female,1934,1,,1,,2,,1,,3,,11213,0.819,70,GPA,GPA,01/01/1997,62,Patient,Previous,Retired,5L,Remission,14,,97,50,No,No,,No,Non
@@ -183,8 +183,8 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 4032,Irish,No,10/06/2013,Male,1966,2,,3,,4,,2,,1,,23421,0.516,,Behcets,Vasculitis Other,01/01/2001,34,Patient,Current,Not working,3L,Remission,1,,82,91,No,No,,No,Non
 4032,Irish,No,16/06/2014,Male,1966,1,,4,,5,,3,,3,,14533,0.231,50,Behcets,Vasculitis Other,01/01/2001,34,Patient,Current,Not working,5L,Remission,18,,82,91,No,No,,No,Non
 4033,Irish,Yes,20/01/2014,Male,1972,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/04/2001,28,Patient,Never,Not working,5L,Remission,6,,111,66,No,Yes,,Azathioprine,Calcium + Vitamin D
-4033,Irish,No,21/07/2014,Male,1972,1,1,1,1,1,1,2,2,1,1,11121,0.837,90,GPA,GPA,01/04/2001,28,Patient,Never,Employed full time,5L,Remission,1,,90,84,No,Yes,,Azathioprine,"Calcium + Vitamin D, Bisphosphonate"
-4034,Irish,Yes,17/12/2012,Female,1946,2,2,2,2,2,2,1,1,2,2,22212,0.691,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/01/2009,62,Patient,Unknown,Retired,3L,Remission,10,,57,91,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
+4033,Irish,No,21/07/2014,Male,1972,1,1,1,1,1,1,2,2,1,1,11121,0.837,90,GPA,GPA,01/04/2001,28,Patient,Never,Employed full time,5L,Remission,1,,90,84,No,Yes,,Azathioprine,Calcium + Vitamin D+ Bisphosphonate
+4034,Irish,Yes,17/12/2012,Female,1946,2,2,2,2,2,2,1,1,2,2,22212,0.691,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/01/2009,62,Patient,Unknown,Retired,3L,Remission,10,,57,91,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
 4035,Irish,Yes,14/12/2012,Female,1965,2,2,2,2,2,2,1,1,2,2,22212,0.691,,GPA,GPA,01/11/2007,41,Patient,Unknown,Not working,3L,Remission,3,,67,87,No,Yes,,MMF,Non
 4036,Irish,Yes,27/01/2014,Female,1965,1,1,1,1,1,1,2,2,1,1,11121,0.837,60,GPA,GPA,01/11/2007,41,Patient,Unknown,Not working,5L,Remission,2,,65,90,No,No,,Methotrexate,Non
 4037,Irish,Yes,21/01/2013,Female,1944,1,1,1,1,1,1,1,1,1,1,11111,1,,GCA,Vasculitis Other,01/07/2012,68,Patient,Unknown,Retired,3L,Remission,14,,60,90,No,No,,No,Non
@@ -198,25 +198,25 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 4041,Irish,No,13/01/2014,Female,1940,1,,1,,1,,1,,1,,11111,1,90,GPA,GPA,01/01/2011,70,Patient,Unknown,Retired,5L,Remission,1,,82,62,No,Yes,Daily oral cyclophosphamide,,Calcium + Vitamin D
 4042,Irish,Yes,18/02/2013,Male,1950,1,1,1,1,1,1,3,2,1,1,11131,0.796,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/02/2003,52,Patient,Never,Employed full time,3L,Active,17,,97,71,No,Yes,,No,Calcium + Vitamin D
 4042,Irish,No,20/01/2014,Male,1950,1,,1,,1,,1,,1,,11111,1,80,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/02/2003,52,Patient,Never,Retired,5L,Remission,,,94,73,No,No,,No,Non
-4043,Irish,Yes,18/02/2013,Male,1984,2,2,2,2,2,2,1,1,2,2,22212,0.691,,GPA,GPA,01/09/2003,19,Patient,Unknown,Employed full time,3L,Active,145,,92,88,No,No,,No,"Co/trimoxazole, Calcium + Vitamin D"
+4043,Irish,Yes,18/02/2013,Male,1984,2,2,2,2,2,2,1,1,2,2,22212,0.691,,GPA,GPA,01/09/2003,19,Patient,Unknown,Employed full time,3L,Active,145,,92,88,No,No,,No,Co/trimoxazole+ Calcium + Vitamin D
 4044,Irish,Yes,25/02/2013,Female,1950,1,1,1,1,1,1,3,2,1,1,11131,0.796,,GPA,GPA,01/08/2008,58,Patient,Never,Not working,3L,Remission,1,,60,90,No,No,,No,Non
 4044,Irish,No,02/12/2013,Female,1950,1,,1,,1,,1,,1,,11111,1,,GPA,GPA,01/08/2008,58,Patient,Never,Retired,3L,Remission,1,,65,85,No,No,,No,Non
 4044,Irish,No,07/07/2014,Female,1950,1,,1,,1,,1,,1,,11111,1,80,GPA,GPA,01/08/2008,58,Patient,Never,Not working,5L,Remission,6,,72,75,No,No,,No,Non
-4045,Irish,Yes,25/03/2013,Male,1938,2,2,2,2,2,2,1,3,2,3,22212,0.691,,GPA,GPA,01/09/2005,66,Patient,Unknown,Retired,3L,Remission,1,,126,50,No,No,,No,"Calcium + Vitamin D, Bisphosphonate"
-4045,Irish,No,19/05/2014,Male,1938,1,,1,,1,,4,,3,,11143,0.513,75,GPA,GPA,01/09/2005,66,Patient,Unknown,Retired,5L,Remission,1,,138,45,No,Yes,,No,"Calcium + Vitamin D, Bisphosphonate"
+4045,Irish,Yes,25/03/2013,Male,1938,2,2,2,2,2,2,1,3,2,3,22212,0.691,,GPA,GPA,01/09/2005,66,Patient,Unknown,Retired,3L,Remission,1,,126,50,No,No,,No,Calcium + Vitamin D+ Bisphosphonate
+4045,Irish,No,19/05/2014,Male,1938,1,,1,,1,,4,,3,,11143,0.513,75,GPA,GPA,01/09/2005,66,Patient,Unknown,Retired,5L,Remission,1,,138,45,No,Yes,,No,Calcium + Vitamin D+ Bisphosphonate
 4046,Irish,Yes,10/04/2013,Male,1938,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,01/11/2005,67,Patient,Unknown,Retired,3L,Remission,1,,290,19,No,Yes,,No,Non
 4048,Irish,Yes,08/04/2013,Male,1948,1,1,1,1,1,1,1,2,1,2,11111,1,,GPA,GPA,01/05/2003,55,Patient,Unknown,Employed full time,3L,Remission,18,,71,90,No,Yes,,MMF,Non
 4048,Irish,No,09/06/2014,Male,1948,1,,1,,1,,2,,2,,11122,0.768,60,GPA,GPA,01/05/2003,55,Patient,Unknown,Retired,5L,Remission,1,,80,88,No,No,,No,Non
 4049,Irish,Yes,08/04/2013,Female,1950,3,3,1,1,1,1,3,3,1,1,31131,0.727,,GPA,GPA,01/11/2002,52,Patient,Unknown,Employed part time,3L,Remission,,,,,No,Yes,,No,Calcium + Vitamin D
 4049,Irish,No,14/04/2014,Female,1950,3,,2,,1,,3,,1,,32131,0.64,95,GPA,GPA,01/11/2002,52,Patient,Unknown,Unknown,5L,Low disease activity,2,,75,71,No,Yes,,Methotrexate,Calcium + Vitamin D
 4050,Irish,Yes,12/04/2013,Female,1930,1,1,1,1,1,1,3,3,1,1,11131,0.796,,MPA,MPA,11/04/2013,83,Patient,Unknown,Retired,3L,Active,,,285,14,No,Yes,,Methotrexate,Non
-4051,Irish,Yes,29/04/2013,Female,1956,1,1,1,1,1,1,1,1,1,1,11111,1,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/06/2008,51,Patient,Unknown,Employed full time,3L,Remission,5,,76,73,No,,,,"Calcium + Vitamin D, Bisphosphonate"
+4051,Irish,Yes,29/04/2013,Female,1956,1,1,1,1,1,1,1,1,1,1,11111,1,,Eosinophilic granulomatosis with polyangiitis (Churg Strauss),EGPA,01/06/2008,51,Patient,Unknown,Employed full time,3L,Remission,5,,76,73,No,,,,Calcium + Vitamin D+ Bisphosphonate
 4052,Irish,Yes,13/05/2013,Male,1959,1,1,1,1,1,1,1,1,1,1,11111,1,,PAN,Vasculitis Other,01/01/2002,42,Patient,Unknown,Employed full time,3L,Remission,3,,75,91,No,Yes,,No,Non
 4053,Irish,Yes,20/05/2013,Female,1939,1,2,1,1,1,2,1,2,1,2,11111,1,,MPA,MPA,26/05/2004,65,Patient,Unknown,Retired,3L,Low disease activity,7,,290,14,No,Yes,,MMF,Calcium + Vitamin D
 4053,Irish,No,14/02/2014,Female,1939,2,,1,,2,,3,,2,,21232,0.654,1,MPA,MPA,26/05/2004,65,Patient,Unknown,Retired,5L,Remission,1,,266,15,No,Yes,,Rituximab,Co/trimoxazole
 4054,Irish,Yes,29/05/2013,Female,1938,1,1,1,1,3,3,3,3,3,3,11333,0.689,,GPA,GPA,01/02/2011,72,Patient,Never,Retired,3L,Remission,,,,,No,Yes,,Rituximab,Non
 4055,Irish,Yes,03/03/2014,Female,1923,2,2,1,1,1,1,1,1,1,1,21111,0.877,75,GPA,GPA,28/02/2001,77,Patient,Never,Retired,5L,Remission,1,,100,47,No,No,,No,Non
-4058,Irish,Yes,13/01/2013,Male,1957,1,1,1,1,1,1,1,1,1,1,11111,1,75,GPA,GPA,18/11/2013,56,Patient,Previous,Not working,5L,Remission,1,,58,90,No,Yes,Daily oral cyclophosphamide,,"Calcium + Vitamin D, Bisphosphonate"
+4058,Irish,Yes,13/01/2013,Male,1957,1,1,1,1,1,1,1,1,1,1,11111,1,75,GPA,GPA,18/11/2013,56,Patient,Previous,Not working,5L,Remission,1,,58,90,No,Yes,Daily oral cyclophosphamide,,Calcium + Vitamin D+ Bisphosphonate
 4059,Irish,Yes,19/05/2014,Female,1954,1,1,1,1,3,3,1,1,3,3,11313,0.812,70,GPA,GPA,01/01/1999,44,Patient,Current,Employed full time,5L,Active,,,,,No,Yes,,Azathioprine,Calcium + Vitamin D
 4061,Irish,Yes,02/09/2013,Female,1961,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/01/2007,45,Patient,Previous,Employed full time,3L,Remission,4,,59,91,No,Yes,,Rituximab,Calcium + Vitamin D
 4061,Irish,No,30/06/2014,Female,1961,1,,1,,1,,1,,1,,11111,1,95,GPA,GPA,01/01/2007,45,Patient,Previous,Employed part time,5L,Remission,4,,53,91,No,No,,Methotrexate,Calcium + Vitamin D
@@ -231,7 +231,7 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 4073,Irish,Yes,23/06/2014,Female,1961,1,1,3,3,2,2,3,3,3,3,13233,0.592,65,GPA,GPA,01/02/2010,48,Patient,Previous,Not working,5L,Remission,3,,61,91,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Non
 4074,Irish,Yes,30/06/2014,Female,1973,1,1,1,1,1,1,1,1,2,2,11112,0.879,70,GPA,GPA,01/01/1998,24,Patient,Current,Not working,5L,Remission,,,60,91,No,No,,Methotrexate,Non
 4075,Irish,Yes,28/07/2014,Female,1968,1,1,1,1,3,3,2,2,1,1,11321,0.785,60,GPA,GPA,15/01/2013,44,Patient,Never,Employed part time,5L,Remission,7,,67,87,No,No,,No,Non
-4076,Irish,Yes,16/06/2014,Female,1941,1,1,1,1,1,1,1,1,1,1,11111,1,60,GPA,GPA,01/01/2002,60,Patient,Never,Retired,5L,Remission,2,,73,72,No,No,,Methotrexate,"Calcium + Vitamin D, Bisphosphonate"
+4076,Irish,Yes,16/06/2014,Female,1941,1,1,1,1,1,1,1,1,1,1,11111,1,60,GPA,GPA,01/01/2002,60,Patient,Never,Retired,5L,Remission,2,,73,72,No,No,,Methotrexate,Calcium + Vitamin D+ Bisphosphonate
 4077,Irish,Yes,16/06/2014,Female,1987,1,1,1,1,1,1,1,1,1,1,11111,1,80,Behcets,Vasculitis Other,01/10/2004,17,Patient,Never,Employed full time,5L,Remission,9,,59,91,No,Yes,,Azathioprine,Non
 4078,Irish,Yes,05/08/2014,Female,1965,3,3,2,2,2,2,2,2,2,2,32222,0.58,75,GPA,GPA,01/12/1990,25,Patient,Previous,Not working,5L,Remission,,,,,No,No,,Methotrexate,Non
 4079,Irish,Yes,11/07/2014,Male,1997,4,4,2,2,1,1,2,2,2,2,42122,0.572,70,GBM,Vasculitis Other,10/07/2014,16,Patient,Never,Student,5L,Active,42,,58,,No,No,,Methotrexate,Non
@@ -288,15 +288,15 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 6505,Irish,Yes,26/05/2014,Female,1987,1,1,1,1,1,1,1,1,1,1,11111,1,80,Sjogrens syndrome,Other   ,01/10/2009,22,Disease Control,Never,Employed full time,5L,Remission,26,,65,91,No,,,,Non
 8001,Irish,Yes,18/12/2012,Female,1919,1,3,4,5,5,5,1,2,5,3,14515,0.189,,MPA,MPA,27/09/2012,93,Patient,Unknown,Retired,3L,Low disease activity,8,,159,,No,No,,No,Calcium + Vitamin D
 8001,Irish,No,20/05/2014,Female,1919,4,,5,,5,,3,,1,,45531,0.132,50,MPA,MPA,27/09/2012,93,Patient,Unknown,Retired,5L,Remission,9,,152,,No,Yes,,Azathioprine,Calcium + Vitamin D
-8002,Irish,Yes,26/02/2013,Male,1950,1,1,2,2,2,2,5,5,5,5,12255,0.088,,GPA,GPA,07/12/2012,62,Patient,Previous,Disability benefit,3L,Active,109,,84,,No,Yes,,No,"Co/trimoxazole, Calcium + Vitamin D"
+8002,Irish,Yes,26/02/2013,Male,1950,1,1,2,2,2,2,5,5,5,5,12255,0.088,,GPA,GPA,07/12/2012,62,Patient,Previous,Disability benefit,3L,Active,109,,84,,No,Yes,,No,Co/trimoxazole+ Calcium + Vitamin D
 8002,Irish,No,28/01/2014,Male,1950,1,,1,,1,,2,,1,,11121,0.837,80,GPA,GPA,07/12/2012,62,Patient,Previous,Employed full time,5L,Remission,,,,,No,Yes,,Rituximab,Non
 8003,Irish,Yes,15/01/2013,Female,1937,1,1,1,1,1,1,2,2,2,2,11122,0.76,,MPA,MPA,07/10/2010,73,Patient,Never,Retired,3L,Remission,13,,78,,No,No,,No,Non
-8003,Irish,No,02/07/2013,Female,1937,1,,1,,3,,3,,1,,11331,0.795,,MPA,MPA,07/10/2010,73,Patient,Never,Retired,3L,Remission,5,,77,,No,,,,"Co/trimoxazole, Calcium + Vitamin D"
+8003,Irish,No,02/07/2013,Female,1937,1,,1,,3,,3,,1,,11331,0.795,,MPA,MPA,07/10/2010,73,Patient,Never,Retired,3L,Remission,5,,77,,No,,,,Co/trimoxazole+ Calcium + Vitamin D
 8004,Irish,Yes,15/01/2013,Female,1942,1,1,1,1,3,3,1,1,3,3,11313,0.812,,GPA,GPA,27/04/2012,69,Patient,Never,Not working,3L,Remission,,,72,,No,Yes,,No,Calcium + Vitamin D
 8005,Irish,Yes,15/01/2013,Male,1953,1,1,1,1,1,1,3,3,3,3,11133,0.725,,GPA,GPA,29/04/2003,49,Patient,Unknown,Unknown,3L,Remission,29,,213,,No,No,,Methotrexate,Non
-8005,Irish,No,29/07/2014,Male,1953,1,,1,,1,,2,,1,,11121,0.837,70,GPA,GPA,29/04/2003,49,Patient,Unknown,Employed part time,5L,Remission,1,,232,,No,Yes,,Methotrexate,"Co/trimoxazole, Calcium + Vitamin D"
+8005,Irish,No,29/07/2014,Male,1953,1,,1,,1,,2,,1,,11121,0.837,70,GPA,GPA,29/04/2003,49,Patient,Unknown,Employed part time,5L,Remission,1,,232,,No,Yes,,Methotrexate,Co/trimoxazole+ Calcium + Vitamin D
 8008,Irish,Yes,12/02/2013,Male,1949,1,1,1,1,1,1,3,3,1,1,11131,0.796,,Infected EVAR,Other   ,28/01/2013,63,Disease Control,Unknown,Retired,3L,Active,45,,85,,No,Yes,,Azathioprine,Non
-8009,Irish,Yes,26/02/2013,Female,1960,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/01/1997,36,Patient,Unknown,Unknown,3L,Remission,2,,149,,No,No,,No,"Co/trimoxazole, Calcium + Vitamin D"
+8009,Irish,Yes,26/02/2013,Female,1960,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,01/01/1997,36,Patient,Unknown,Unknown,3L,Remission,2,,149,,No,No,,No,Co/trimoxazole+ Calcium + Vitamin D
 8010,Irish,Yes,23/04/2013,Female,1932,1,1,1,1,1,1,1,1,3,3,11113,0.848,,MPA,MPA,19/04/2013,81,Patient,Unknown,Retired,3L,Active,6,,439,,No,,,,Non
 8011,Irish,Yes,07/05/2013,Male,1948,1,1,1,1,1,1,1,1,3,3,11113,0.848,,GPA,GPA,01/01/2003,54,Patient,Unknown,Unknown,3L,Low disease activity,5,,109,,No,Yes,,Methotrexate,Non
 8012,Irish,Yes,16/05/2013,Male,1943,3,3,2,2,2,2,4,4,5,5,32245,0.002,,GBM,Vasculitis Other,14/05/2013,69,Patient,Previous,Employed part time,3L,Active,6,,475,,No,No,,Azathioprine,Co/trimoxazole
@@ -307,8 +307,8 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 8016,Irish,Yes,26/06/2013,Male,1929,3,3,3,3,3,3,3,3,3,3,33333,0.592,,MPA,MPA,24/06/2013,83,Patient,Previous,Retired,3L,Active,86,,428,,No,No,,No,Co/trimoxazole
 8018,Irish,Yes,27/08/2013,Male,1961,3,3,1,1,5,5,3,3,3,3,31533,0.671,,MPA,MPA,27/08/2013,52,Patient,Previous,Employed full time,3L,Active,116,,680,8,No,No,,MMF,Calcium + Vitamin D
 8019,Irish,Yes,03/09/2013,Female,1927,1,1,1,1,1,1,1,1,1,1,11111,1,,MPA,MPA,02/09/2013,85,Patient,Never,Retired,3L,Active,6,,227,,No,Yes,,Azathioprine,Co/trimoxazole
-8020,Irish,Yes,23/09/2013,Female,1954,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,18/03/2010,56,Patient,Never,Retired,3L,Remission,,,86,59,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
-8021,Irish,Yes,08/10/2013,Female,1934,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,24/04/2012,77,Patient,Unknown,Retired,3L,Remission,4,,155,,No,No,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
+8020,Irish,Yes,23/09/2013,Female,1954,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,18/03/2010,56,Patient,Never,Retired,3L,Remission,,,86,59,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
+8021,Irish,Yes,08/10/2013,Female,1934,1,1,1,1,1,1,1,1,1,1,11111,1,,GPA,GPA,24/04/2012,77,Patient,Unknown,Retired,3L,Remission,4,,155,,No,No,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
 8022,Irish,Yes,09/10/2013,Female,1986,3,3,1,1,3,3,1,1,3,3,31313,0.778,,MPA,MPA,19/01/2011,24,Patient,Previous,Unknown,3L,Active,126,,999,,Yes,Yes,,Azathioprine,Non
 8024,Irish,Yes,19/11/2013,Male,1944,1,1,1,1,1,1,1,1,1,1,11111,1,90,MPA,MPA,06/01/2006,61,Patient,Never,Retired,5L,Remission,,,199,,No,Yes,Daily oral cyclophosphamide,,Non
 8025,Irish,Yes,19/11/2013,Male,1952,3,3,1,1,3,3,3,3,2,2,31332,0.635,30,MPA,MPA,19/05/2009,57,Patient,Previous,Employed full time,5L,Remission,3,,97,,No,Yes,Daily oral cyclophosphamide,,Non
@@ -319,7 +319,7 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 8030,Irish,Yes,03/12/2013,Male,1945,1,1,1,1,2,2,2,2,1,1,11221,0.795,70,MPA,MPA,29/09/2003,58,Patient,Previous,Retired,5L,Remission,4,,124,,No,Yes,,Azathioprine,Non
 8032,Irish,Yes,03/12/2013,Female,1941,1,1,1,1,1,1,3,3,2,2,11132,0.74,80,MPA,MPA,12/07/2005,63,Patient,Never,Retired,5L,Remission,1,,83,,No,No,,MMF,Calcium + Vitamin D
 8033,Irish,Yes,17/12/2013,Female,1934,4,4,2,2,3,3,4,4,1,1,42341,0.363,60,MPA,MPA,26/03/2010,75,Patient,Never,Retired,5L,Remission,5,,134,,No,No,,No,Calcium + Vitamin D
-8039,Irish,Yes,08/01/2014,Male,1937,2,2,2,2,3,3,1,1,1,1,22311,0.74,60,MPA,MPA,08/01/2014,77,Patient,Never,Retired,5L,Active,122,,902,,Yes,No,,No,"Co/trimoxazole, Calcium + Vitamin D"
+8039,Irish,Yes,08/01/2014,Male,1937,2,2,2,2,3,3,1,1,1,1,22311,0.74,60,MPA,MPA,08/01/2014,77,Patient,Never,Retired,5L,Active,122,,902,,Yes,No,,No,Co/trimoxazole+ Calcium + Vitamin D
 8047,Irish,Yes,14/01/2014,Male,1966,1,1,1,1,1,1,3,3,2,2,11132,0.74,40,MPA,MPA,27/03/2005,38,Patient,Never,Employed full time,5L,Remission,,,123,,No,Yes,PULSED CYCLOPHOSPHAMIDE,,Non
 8049,Irish,Yes,15/01/2014,Female,1946,4,4,5,5,5,5,5,5,4,4,45554,-0.283,42,GPA,GPA,08/06/2006,60,Patient,Previous,Retired,5L,Active,4,,366,,No,No,,No,Non
 8052,Irish,Yes,03/04/2014,Male,1934,3,3,1,1,1,1,1,1,1,1,31111,0.85,60,MPA,MPA,28/03/2014,79,Patient,Never,Retired,5L,Active,,,260,,No,Yes,,No,Non
@@ -330,13 +330,13 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 8057,Irish,Yes,11/02/2014,Female,1961,3,3,1,1,3,3,2,2,3,3,31323,0.645,60,MPA,MPA,02/07/2005,43,Patient,Never,Disability benefit,5L,Remission,1,,68,,No,No,,No,Non
 8058,Irish,Yes,08/04/2014,Female,1938,1,1,1,1,1,1,3,3,1,1,11131,0.796,95,MPA,MPA,06/07/2010,71,Patient,Previous,Retired,5L,Remission,6,,126,,No,No,,No,Non
 8063,Irish,Yes,03/01/2014,Male,1952,1,1,1,1,3,3,1,1,3,3,11313,0.837,,MPA,MPA,03/01/2014,61,Patient,Unknown,Unknown,3L,Active,57,,311,,No,No,,No,Non
-8066,Irish,Yes,06/05/2014,Male,1953,1,1,1,1,1,1,1,1,1,1,11111,1,95,GPA,GPA,04/08/2005,52,Patient,Previous,Retired,5L,Remission,2,,135,,No,Yes,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
+8066,Irish,Yes,06/05/2014,Male,1953,1,1,1,1,1,1,1,1,1,1,11111,1,95,GPA,GPA,04/08/2005,52,Patient,Previous,Retired,5L,Remission,2,,135,,No,Yes,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
 8067,Irish,Yes,06/05/2014,Male,1949,1,1,1,1,2,2,2,2,3,3,11223,0.721,60,GPA,GPA,05/05/2014,65,Patient,Never,Retired,5L,Low disease activity,1,9,104,,No,Yes,,Azathioprine,Non
 8068,Irish,Yes,17/06/2014,Male,1953,1,1,1,1,1,1,1,1,1,1,11111,1,75,MPA,MPA,10/06/2002,48,Patient,Never,Employed part time,5L,Remission,1,,80,,No,No,,No,Non
 8069,Irish,Yes,20/05/2014,Male,1954,1,1,1,1,1,1,2,2,1,1,11121,0.837,85,MPA,MPA,08/04/1998,43,Patient,Never,Employed part time,5L,Remission,16,,123,,Yes,No,,No,Non
 8070,Irish,Yes,01/07/2014,Female,1940,1,1,1,1,1,1,1,1,1,1,11111,1,95,GPA,GPA,02/06/2006,65,Patient,Never,Retired,5L,Remission,2,,134,,No,No,,No,Calcium + Vitamin D
 8071,Irish,Yes,01/07/2014,Female,1954,1,1,1,1,1,1,1,1,1,1,11111,1,90,Hyperthyroidism,Other   ,01/01/1994,39,Disease Control,Never,Unknown,5L,Remission,3,,69,,No,No,,MMF,Non
-8072,Irish,Yes,15/07/2014,Male,1986,2,2,1,1,2,2,2,2,1,1,21221,0.735,75,GPA,GPA,05/10/2010,23,Patient,Previous,Employed part time,5L,Low disease activity,1,3,96,,No,No,,Azathioprine,"Co/trimoxazole, Calcium + Vitamin D"
+8072,Irish,Yes,15/07/2014,Male,1986,2,2,1,1,2,2,2,2,1,1,21221,0.735,75,GPA,GPA,05/10/2010,23,Patient,Previous,Employed part time,5L,Low disease activity,1,3,96,,No,No,,Azathioprine,Co/trimoxazole+ Calcium + Vitamin D
 8073,Irish,Yes,15/07/2014,Female,1934,4,4,3,3,3,3,3,3,2,2,43332,0.494,60,GPA,GPA,20/12/2001,67,Patient,Never,Retired,5L,Remission,1,,109,,No,No,,Azathioprine,Bisphosphonate
 10001,Irish,Yes,05/09/2013,Female,1958,1,1,1,1,1,1,3,3,1,1,11131,0.837,,Healthy Control,Heathy Control,01/01/2015,56,Healthy Control,Unknown,,3L,,,,,,,,,,Non
 10002,Irish,Yes,08/10/2013,Female,1937,1,1,1,1,1,1,1,1,1,1,11111,1,,Healthy Control,Heathy Control,01/01/2015,77,Healthy Control,Unknown,,3L,,,,,,,,,,Non
@@ -948,16 +948,16 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 12064459,UK,No,22/09/2014,Male,1959,1,,1,,1,,1,,1,,11111,1,95,Granulomatosis with angiitis,GPA,13/02/2006,46,,Previous,,,,,,,,,,,,Non
 12074042,UK,Yes,13/10/2011,Female,1960,3,3,2,2,2,2,2,2,1,1,32221,0.636,50,Microscopic polyangiitis,MPA,13/02/2006,46,,Current,,,,1,,,,,,,,Non
 12074042,UK,No,22/10/2012,Female,1960,3,,1,,3,,3,,2,,31332,0.635,40,Microscopic polyangiitis,MPA,01/06/2003,43,,Current,,,,,,,,,,,,Non
-12078143,UK,Yes,21/07/2011,Female,1962,4,4,3,3,4,4,4,4,3,3,43443,0.206,40,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,remission,4,,50,>90,No,Yes,No,MMF,No
-12078143,UK,No,12/03/2012,Female,1962,4,,3,,4,,4,,4,,43444,0.076,40,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,17/09/2012,Female,1962,4,,3,,4,,5,,4,,43454,-0.134,85,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,4,,48,90,,,,,Non
-12078143,UK,No,17/12/2012,Female,1962,4,,3,,4,,5,,3,,43453,-0.053,25,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,06/01/2013,Female,1962,4,,3,,4,,4,,3,,43443,0.206,50,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,15/04/2013,Female,1962,4,,4,,5,,5,,4,,44554,-0.199,25,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,03/06/2013,Female,1962,3,,3,,4,,4,,3,,33443,0.231,30,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,07/09/2013,Female,1962,4,,3,,4,,4,,3,,43443,0.206,30,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,03/03/2014,Female,1962,4,,3,,4,,4,,3,,43443,0.206,35,Takayasu's arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
-12078143,UK,No,08/09/2014,Female,1962,4,,3,,4,,4,,2,,43442,0.221,50,Takayasu's arteritis,Vasculitis Other,25/05/2002,40,,Current,,,,,,,,,,,,Non
+12078143,UK,Yes,21/07/2011,Female,1962,4,4,3,3,4,4,4,4,3,3,43443,0.206,40,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,remission,4,,50,>90,No,Yes,No,MMF,No
+12078143,UK,No,12/03/2012,Female,1962,4,,3,,4,,4,,4,,43444,0.076,40,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,17/09/2012,Female,1962,4,,3,,4,,5,,4,,43454,-0.134,85,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,4,,48,90,,,,,Non
+12078143,UK,No,17/12/2012,Female,1962,4,,3,,4,,5,,3,,43453,-0.053,25,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,06/01/2013,Female,1962,4,,3,,4,,4,,3,,43443,0.206,50,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,15/04/2013,Female,1962,4,,4,,5,,5,,4,,44554,-0.199,25,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,03/06/2013,Female,1962,3,,3,,4,,4,,3,,33443,0.231,30,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,07/09/2013,Female,1962,4,,3,,4,,4,,3,,43443,0.206,30,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,03/03/2014,Female,1962,4,,3,,4,,4,,3,,43443,0.206,35,Takayasus arteritis,Vasculitis Other,01/06/2003,41,,Current,,,,,,,,,,,,Non
+12078143,UK,No,08/09/2014,Female,1962,4,,3,,4,,4,,2,,43442,0.221,50,Takayasus arteritis,Vasculitis Other,25/05/2002,40,,Current,,,,,,,,,,,,Non
 12083416,UK,Yes,04/08/2011,Male,1972,1,1,1,1,1,1,1,1,1,1,11111,1,80,Classical PAN,Vasculitis Other,25/05/2002,29,,never,,,remission,0.9,,135,33,No,Yes,No,MMF,bisphosphonate
 12083416,UK,No,28/05/2012,Male,1972,1,,1,,1,,1,,1,,11111,1,85,Classical PAN,Vasculitis Other,25/05/2002,29,,never,,,,,,,,,,,,Non
 12083416,UK,No,26/11/2012,Male,1972,1,,1,,1,,1,,1,,11111,1,80,Classical PAN,Vasculitis Other,25/05/2002,29,,never,,,,,,,,,,,,Non
@@ -1804,13 +1804,13 @@ Patient ID,Dataset,First Visit,Date of Visit,Gender,Year of birth,Mobility,Mobil
 20532957,UK,No,28/04/2014,Male,1946,4,,4,,1,,4,,3,,44143,0.247,50,Microscopic polyangiitis,MPA,02/01/2013,67,,Previous,,,,,,,,,,,,Non
 20532957,UK,No,18/08/2014,Male,1946,4,,4,,1,,4,,3,,44143,0.247,45,Microscopic polyangiitis,MPA,02/01/2013,67,,Previous,,,,,,,,,,,,Non
 20532957,UK,No,20/10/2014,Male,1946,4,,4,,1,,4,,2,,44142,0.262,45,Microscopic polyangiitis,MPA,23/05/2013,67,,Previous,,,,,,,,,,,,Non
-20536576,UK,Yes,01/07/2013,Female,1958,3,3,1,2,3,3,3,3,1,2,31331,0.691,75,Takayasu's arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
-20536576,UK,No,15/07/2013,Female,1958,3,,2,,2,,2,,1,,32221,0.636,80,Takayasu's arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
-20536576,UK,No,29/07/2013,Female,1958,3,,2,,2,,3,,1,,32231,0.612,70,Takayasu's arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
-20536576,UK,No,19/08/2013,Female,1958,3,,3,,4,,4,,1,,33441,0.302,50,Takayasu's arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
-20536576,UK,No,02/09/2013,Female,1958,4,,3,,4,,4,,3,,43443,0.206,40,Takayasu's arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
-20536576,UK,No,16/09/2013,Female,1958,4,,3,,4,,4,,2,,43442,0.221,50,Takayasu's arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
-20536576,UK,No,21/10/2013,Female,1958,4,,3,,4,,3,,3,,43433,0.378,50,Takayasu's arteritis,Vasculitis Other,01/12/2012,54,,Previous,,,,,,,,,,,,Non
+20536576,UK,Yes,01/07/2013,Female,1958,3,3,1,2,3,3,3,3,1,2,31331,0.691,75,Takayasus arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
+20536576,UK,No,15/07/2013,Female,1958,3,,2,,2,,2,,1,,32221,0.636,80,Takayasus arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
+20536576,UK,No,29/07/2013,Female,1958,3,,2,,2,,3,,1,,32231,0.612,70,Takayasus arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
+20536576,UK,No,19/08/2013,Female,1958,3,,3,,4,,4,,1,,33441,0.302,50,Takayasus arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
+20536576,UK,No,02/09/2013,Female,1958,4,,3,,4,,4,,3,,43443,0.206,40,Takayasus arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
+20536576,UK,No,16/09/2013,Female,1958,4,,3,,4,,4,,2,,43442,0.221,50,Takayasus arteritis,Vasculitis Other,23/05/2013,55,,Previous,,,,,,,,,,,,Non
+20536576,UK,No,21/10/2013,Female,1958,4,,3,,4,,3,,3,,43433,0.378,50,Takayasus arteritis,Vasculitis Other,01/12/2012,54,,Previous,,,,,,,,,,,,Non
 20539307,UK,Yes,25/02/2013,Female,1983,1,1,1,1,2,1,1,1,1,1,11211,0.906,90,Granulomatosis with angiitis,GPA,01/12/2012,29,,Never,,,,,,,,,,,,Non
 20539307,UK,No,25/03/2013,Female,1983,2,,1,,2,,1,,1,,21211,0.836,95,Granulomatosis with angiitis,GPA,01/12/2012,29,,Never,,,,,,,,,,,,Non
 20539307,UK,No,15/04/2013,Female,1983,1,,1,,2,,1,,1,,11211,0.906,98,Granulomatosis with angiitis,GPA,01/12/2012,29,,Never,,,,,,,,,,,,Non
