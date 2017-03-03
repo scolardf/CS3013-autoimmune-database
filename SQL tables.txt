@@ -26,14 +26,14 @@ Cyclosphamide VARCHAR(255),
 Steroids VARCHAR(255),
 ImmunoSuppressent VARCHAR(255),
 Prophlaxis VARCHAR(255),
-FormType VARCHAR(2),
+FormType VARCHAR(255),
 DiseaseActivity VARCHAR(255),
 CRP VARCHAR(255),
 BVAS VARCHAR(255),
 Creatinine VARCHAR(255),
 eGFR VARCHAR(255),
 ID INT NOT NULL,
-HealthIndex DOUBLE
+HealthIndex DECIMAL(6,3)
 );
 
 ALTER TABLE visit
