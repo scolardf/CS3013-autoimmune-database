@@ -20,7 +20,7 @@ yesArray = []
 noArray = []
 
 for row in cur.fetchall():
-    if (row[21] != 'NULL'):
+    if (row[21] != None):
         if (row[11] != ''):
             steroidsYesorNo.append(row[11])
             indexValue.append(row[21])
@@ -35,14 +35,25 @@ for x in range(0, len(steroidsYesorNo)):
 
 yesAverage = decimal.Decimal(0)
 for y in range (0, len(yesArray)):
-    yesAverage=decimal.Decimal(yesAverage)+decimal.Decimal(yesArray[y])
+    yesAverage+= decimal.Decimal(yesArray[y])
 
 yesAverage = yesAverage/y
-
 noAverage = decimal.Decimal(0)
 for z in range (0, len(noArray)):
     noAverage = decimal.Decimal(noAverage)+decimal.Decimal(noArray[z])
-
 noAverage = noAverage/z
-print yesAverage
-print noAverage
+#barchart
+width = 0.6
+N = 2
+ind = np.arange(N)
+p1 = plt.bar(0.2, yesAverage, width, color = 'green')
+p2 = plt.bar(1, noAverage, width, color = 'red')
+
+plt.ylabel('Index average')
+plt.title('Average index of steroid and non-steroid users')
+plt.xticks(ind, ('Steroid Average', 'Non-Steroid Average'))
+plt.yticks(np.arange(0,0.9,0.1))
+print float(yesAverage)
+print float(noAverage)
+
+plt.show()
