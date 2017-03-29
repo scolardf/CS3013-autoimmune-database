@@ -35,7 +35,6 @@ for counter in range (0, len(ageAtDiagnosis)):
         min=ageAtDiagnosis[counter]
     if(ageAtDiagnosis[counter]>max):
         max=ageAtDiagnosis[counter]
-    print ageAtDiagnosis[counter]
     average = average + ageAtDiagnosis[counter]
 average = average/counter
 list = []
@@ -43,8 +42,8 @@ for number in range (0, max+1):
     list.append(number)
 y = np.bincount(ageAtDiagnosis)
 z = np.nonzero(y)[0]
-plt.xlabel("Frequency of ages")
-plt.ylabel("Ages")
+plt.xlabel("Ages")
+plt.ylabel("Frequency of Ages")
 plt.title("Frequency of ages at diagnosis")
 plt.plot(list, y)
 print 'The average age at diagnosis is', average
