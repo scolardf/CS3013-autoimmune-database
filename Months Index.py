@@ -27,7 +27,6 @@ for x in range(0, 12):
 for x in range(0, 12):
     Averages[x] = Averages[x]/NoOfAverages[x]
 
-print Averages
 if(len(sys.argv) == 1):
     #barchart
     width = 0.5
