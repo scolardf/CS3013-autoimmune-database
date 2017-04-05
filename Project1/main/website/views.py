@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-
+from django.shortcuts import render
 
 def simple(request):	
 	import MySQLdb
@@ -50,8 +50,8 @@ def simple(request):
 	    list.append(number)
 	y = np.bincount(ageAtDiagnosis)
 	z = np.nonzero(y)[0]
-	plt.xlabel("Frequency of ages")
-	plt.ylabel("Ages")
+	plt.xlabel("Ages")
+	plt.ylabel("Frequency of ages")
 	plt.title("Frequency of ages at diagnosis")
 	plt.plot(list, y)
 	canvas = FigureCanvas(plt.figure(1))
@@ -59,3 +59,15 @@ def simple(request):
 	canvas.print_png(response)
 	return response
 	
+def index(request):
+	return render(request, 'website/home.html')
+def queryhtml(request):
+	return render(request, 'website/Query.html')
+def generalhtml(request):
+	return render(request, 'website/General.html')
+def monthlyhtml(request):
+	return render(request, 'website/Monthly.html')	
+def treatmenthtml(request):
+	return render(request, 'website/treatment.html')	
+def agehtml(request):
+	return render(request, 'website/Age.html')	

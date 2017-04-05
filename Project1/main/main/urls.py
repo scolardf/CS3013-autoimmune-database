@@ -15,8 +15,38 @@ Including another URLconf
 """
 from django.conf.urls import url,include
 from django.contrib import admin
-from website.views import simple
-urlpatterns = [
-		url(r'^query/Averageage.png$', simple)
 
+from website.views import simple
+
+
+from website.views import index
+
+from website.views import queryhtml
+from website.views import generalhtml
+from website.views import monthlyhtml
+from website.views import treatmenthtml
+from website.views import agehtml
+
+
+urlpatterns = [
+
+		url(r'^rvsa', simple),
+        url(r'^mvsf', simple),
+        url(r'^distages', simple),
+        url(r'^correlation', simple),
+        url(r'^prophylaxis', simple),
+        url(r'^correlation', simple),
+        url(r'^Overall', simple),
+        url(r'^remission', simple),
+        url(r'^active', simple),
+        url(r'^other', simple),
+
+		url(r'^$',index),
+        url(r'^about',index),
+        url(r'^info',index),
+		url(r'^queries',queryhtml),
+        url(r'^general',generalhtml),
+        url(r'^monthly',monthlyhtml),
+        url(r'^treatment',treatmenthtml),
+        url(r'^age',agehtml)
 ]
