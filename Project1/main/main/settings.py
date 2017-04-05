@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
 	'website',
+   
 #	'website.apps.WebsiteConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -44,6 +45,7 @@ INSTALLED_APPS = [
 ]
 
 
+STATIC_URL = '/static/'
 
 #SITE_ID=1
 

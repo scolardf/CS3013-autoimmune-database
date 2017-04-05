@@ -1,0 +1,51 @@
+{% extends "website/header.html" %}
+{% block content %}
+<div class="row">
+		  <div class="col-sm-2">
+		  <br>
+
+		  <br>
+		  
+			<div class="well bs-sidebar" id="sidebar" style="background-color:#fff">
+			  <ul class="nav nav-pills nav-stacked">				
+				<li><a href='/'>Home</a></li>
+				<li><a href='/general/'>General Analytics</a></li>
+				<li><a href='/monthly/'>Monthly Analytics</a></li>
+				<li><a href='/treatment/'>Treatment</a></li>
+				<li><a href='/age/'>Age</a></li>				
+			  </ul>
+			</div> 
+		  </div> 
+		  <div class="col-sm-10">
+		  
+			<div class='container-fluid'>
+			<br><br>
+			<div class="container">
+
+  			<h1><font size="6">Monthly Analytics</font></h1>
+  			<br>
+  			
+  			<p ><font size="4">Queries focusing on the Months of the year</font> </p>
+  			<br>
+  			<div >
+   			
+  			
+   						
+				
+				<li><a   href='/overall/' onclick="window.open('/Overall/', 'Distribution at ages at diagnosis', 'width=640, height=480'); return false;" >Overall</a></li>
+				
+				<li><a href='/remission/' onclick="window.open('/remission/', 'Correlations', 'width=640, height=480'); return false;" >Remission</a></li>
+				
+				<li><a href='/active/' onclick="window.open('/active/', 'Correlations', 'width=640, height=480'); return false;" >Active</a></li>
+
+				<li><a href='/other/' onclick="window.open('/other/', 'Correlations', 'width=640, height=480'); return false;" >Other</a></li>
+				
+			
+		</div>
+
+
+			</div>
+		  </div>
+		</div> 
+	</div>
+{% endblock %}
