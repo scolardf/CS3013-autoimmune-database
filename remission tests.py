@@ -63,8 +63,8 @@ def barchartIndices(IndicesTuple):
 
 db = MySQLdb.connect(host="localhost",
                      user="root",
-                     passwd="hellogoodbye",
-                     db="test3")
+                     passwd="password",
+                     db="VasculitisDatabase")
 cur = db.cursor();
 
 cur.execute("SELECT * FROM visit")
@@ -99,9 +99,11 @@ for row in cur.fetchall():
 print activeCount
 print remissionCount
 print lowCount
-if(sys.args[1]==1):
-    barchartIndices(activeIndices)
-if(sys.args[1]==2):
-    barchartIndices(remissionIndices)
-if(sys.args[1]==3):
-    barchartIndices(lowIndices)
+
+
+#activeChart
+barchartIndices(activeIndices)
+#RemissionChart
+barchartIndices(remissionIndices)
+#lowChart
+barchartIndices(lowIndices)

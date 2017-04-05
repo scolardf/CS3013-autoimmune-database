@@ -4,8 +4,8 @@ import numpy as np
 import decimal
 db = MySQLdb.connect(host="localhost",
                      user="root",
-                     passwd="hellogoodbye",
-                     db="test3")
+                     passwd="password",
+                     db="VasculitisDatabase")
 
 cur = db.cursor()
 

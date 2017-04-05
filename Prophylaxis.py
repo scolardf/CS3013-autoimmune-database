@@ -5,8 +5,8 @@ import decimal
 import string
 db = MySQLdb.connect(host="localhost",
                      user="root",
-                     passwd="hellogoodbye",
-                     db="test3")
+                     passwd="password",
+                     db="VasculitisDatabase")
 
 cur = db.cursor()
 
